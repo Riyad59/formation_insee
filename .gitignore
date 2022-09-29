@@ -53,3 +53,5 @@ po/*~
 rsconnect/
 *.pdf 
 *.html
+
+data/ 
